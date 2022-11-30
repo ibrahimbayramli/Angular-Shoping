@@ -8,7 +8,7 @@ import { ToastrService } from 'ngx-toastr';
 })
 export class AppComponent {
   title = 'shopping';
-  constructor(private _toastr: ToastrService) {
-    this._toastr.success(("Deneme mesaj")); //çalıştı çok teşekkürler hocamkolay gelsin
-  }
+  // constructor(private _toastr: ToastrService) {
+  //   this._toastr.success(("Deneme mesaj"));
+  // }
 }
