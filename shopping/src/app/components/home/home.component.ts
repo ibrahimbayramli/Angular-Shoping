@@ -1,14 +1,19 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
+import {BasketModel} from "../../models/basket";
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html'
 })
-export class HomeComponent implements OnInit {
+export class HomeComponent  {
 
-  constructor() { }
+  baskets:BasketModel[]=[];
+  total:number=0;
 
-  ngOnInit(): void {
+  getBaskets(event:any){
+    this.baskets=event.data;
+
   }
+
 
 }
