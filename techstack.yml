@@ -1,7 +1,8 @@
 repo_name: ibrahimbayramli/Angular-Shopping
 report_id: 0111debcd721de944980e2c623036412
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T19:14:26+00:00'
+timestamp: '2024-01-04T15:12:15+00:00'
 requested_by: ibrahimbayramli
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping
   detection_source: Repo Metadata
 - name: Angular
   description: A platform for building mobile and desktop web applications
@@ -37,7 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -52,7 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -65,7 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -77,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping
   detection_source: Repo Metadata
 - name: Jasmine
   description: DOM-less simple JavaScript testing framework
@@ -86,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -99,7 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -111,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -124,7 +130,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -138,7 +144,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -152,7 +158,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -166,7 +172,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -180,7 +186,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -194,7 +200,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -208,7 +214,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -222,7 +228,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -236,7 +242,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -250,7 +256,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -264,7 +270,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -278,7 +284,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -292,7 +298,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -306,7 +312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -320,7 +326,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -334,7 +340,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -348,7 +354,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
@@ -362,7 +368,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: shopping/package-lock.json
+  detection_source_url: https://github.com/ibrahimbayramli/Angular-Shopping/blob/main/shopping/package-lock.json
   detection_source: shopping/package.json
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-11-30 21:16:54.000000000 Z
